@@ -5,7 +5,7 @@
      <p>🌞 [PHOTOMETER PRO] (https://play.google.com/store/apps/details?id=com.pardel.photometer&hl=en&gl=US) - I am the main programmer at photometer, I have been responsible for new updates for over 3 years, from writing the code to publishing it.</p>
      <p>🃏 [SplendorUniversityProject] (https://github.com/KamilDevelopments/UniversityGameProject) - This was my university game project. I created most of the UI and its support in it.</p>
 
-- 🔭 I’m currently working on [MuscleMate] (https://github.com/MuscleMate/FrontEnd/) - 
+- 🔭 I’m currently working on [MuscleMate] (https://github.com/MuscleMate/FrontEnd/)
 
 - 🌱 I’m currently learning **Kotlin**
 
