@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Poland</h3>
 
 - 🖥️ Main Projects
-     - [PHOTOMETER PRO] (https://play.google.com/store/apps/details?id=com.pardel.photometer&hl=en&gl=US) - I am the main programmer at photometer, I have been responsible for new updates for over 3 years, from writing the code to publishing it
+     🌞 [PHOTOMETER PRO] (https://play.google.com/store/apps/details?id=com.pardel.photometer&hl=en&gl=US) - I am the main programmer at photometer, I have been responsible for new updates for over 3 years, from writing the code to publishing it
 
 - 🔭 I’m currently working on **MuscleMate**
 
