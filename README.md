@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamil Magdziarz</h1>
 <h3 align="center">A passionate mobile developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamildevelopments" alt="kamildevelopments" /></a> </p>
+- 🖥️ Main Projects
+     - [PHOTOMETER PRO] (https://play.google.com/store/apps/details?id=com.pardel.photometer&hl=en&gl=US)
 
 - 🔭 I’m currently working on **MuscleMate**
 
