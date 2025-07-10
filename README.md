@@ -7,7 +7,7 @@
 
 - 🔭 My last project: [FlashCards] (https://github.com/KamilDevelopments/FlashCards)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **Spring**
 
 - 📫 How to reach me **kmkmagdziarz@gmail.com**
 
