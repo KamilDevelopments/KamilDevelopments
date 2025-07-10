@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Magdziarz</h1>
-<h3 align="center">A passionate mobile developer from Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 
 - 🖥️ Main Projects
      <p>🌞 [PHOTOMETER PRO] (https://play.google.com/store/apps/details?id=com.pardel.photometer&hl=en&gl=US) - I am the main programmer at photometer, I have been responsible for new updates for over 3 years, from writing the code to publishing it.</p>
